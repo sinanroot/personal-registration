@@ -1,0 +1,25 @@
+C:\Users\sinan\Desktop\Personel_Kayıt\Personel_Kayıt\bin\Debug\Personel_Kayıt.exe.config
+C:\Users\sinan\Desktop\Personel_Kayıt\Personel_Kayıt\bin\Debug\Personel_Kayıt.exe
+C:\Users\sinan\Desktop\Personel_Kayıt\Personel_Kayıt\bin\Debug\Personel_Kayıt.pdb
+C:\Users\sinan\Desktop\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.csproj.AssemblyReference.cache
+C:\Users\sinan\Desktop\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinan\Desktop\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.Form1.resources
+C:\Users\sinan\Desktop\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.Properties.Resources.resources
+C:\Users\sinan\Desktop\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.csproj.GenerateResource.cache
+C:\Users\sinan\Desktop\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.csproj.CoreCompileInputs.cache
+C:\Users\sinan\Desktop\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.exe
+C:\Users\sinan\Desktop\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.pdb
+C:\Users\sinan\Desktop\c sharp\Personel_Kayıt\Personel_Kayıt\bin\Debug\Personel_Kayıt.exe.config
+C:\Users\sinan\Desktop\c sharp\Personel_Kayıt\Personel_Kayıt\bin\Debug\Personel_Kayıt.exe
+C:\Users\sinan\Desktop\c sharp\Personel_Kayıt\Personel_Kayıt\bin\Debug\Personel_Kayıt.pdb
+C:\Users\sinan\Desktop\c sharp\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.csproj.AssemblyReference.cache
+C:\Users\sinan\Desktop\c sharp\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinan\Desktop\c sharp\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.Properties.Resources.resources
+C:\Users\sinan\Desktop\c sharp\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.csproj.GenerateResource.cache
+C:\Users\sinan\Desktop\c sharp\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.csproj.CoreCompileInputs.cache
+C:\Users\sinan\Desktop\c sharp\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.exe
+C:\Users\sinan\Desktop\c sharp\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.pdb
+C:\Users\sinan\Desktop\c sharp\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.Frmistatistik.resources
+C:\Users\sinan\Desktop\c sharp\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.FrmAnaForm.resources
+C:\Users\sinan\Desktop\c sharp\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.FrmGrafik.resources
+C:\Users\sinan\Desktop\c sharp\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.FrmGiris.resources
